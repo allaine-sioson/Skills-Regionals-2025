@@ -17,7 +17,7 @@ This project contains the code I used for the Skills Ontario (regionals) competi
 - Must include confirmation request prior to deletion.
 
 ###  Data persistence
-- Automatic save and load.
+- Automatic save and load
 
 ###  Search Function
 - Search for resource via name, category, availability status.
@@ -26,7 +26,7 @@ This project contains the code I used for the Skills Ontario (regionals) competi
 - Display resources grouped by category.
 
 ###  Show 3 Most Frequently Used Resources per Category
-- Display resources grouped by category.
+- Display top 3 resources per category.
 
 ###  Help Menu
 - Simple help menu to explain the system.
